@@ -1,5 +1,5 @@
 //p5 canvas에서는 꼬이기 때문에 사용
-let width=windowWidth,height=windowHeight;
+//let width=windowWidth,height=windowHeight;
 let stars=[];
 let factor=100;
 let speedSlider;
